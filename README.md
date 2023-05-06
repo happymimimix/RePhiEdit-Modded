@@ -4,6 +4,17 @@ This is an optimized version of cmdysj's famous phigros fanmade chart editing pr
 
 Aimed for smoother experience for charters. 
 
+## What is being changed? 
+
+### Network check disabled, charting can now be done at any time at any place! YAY! 
+![image](https://user-images.githubusercontent.com/107282563/236626346-750b6cda-3736-493e-b9fb-b153760dcd97.png)
+
+
+![image](https://user-images.githubusercontent.com/107282563/236626245-396a35fb-b7e2-4e53-a099-3dcd68fd0f84.png)
+Drop down menu bug fixed! 
+
+
+
 ##
 
 This repository also contains the latest original public version of Re:PhiEdit. 
