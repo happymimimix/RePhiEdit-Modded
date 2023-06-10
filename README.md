@@ -20,6 +20,23 @@ Aimed for smoother experience for charters.
 ![image](https://user-images.githubusercontent.com/107282563/236628871-69475d62-8bf1-4867-9729-68ea029bdb2a.png)
 ![image](https://user-images.githubusercontent.com/107282563/236630772-10ab950e-e765-40d0-8647-2c24358f73d3.png)
 
+## A note on the 1.3.0 update: 
+
+Sorry about the note placement bug in improvisation. 
+
+I've noticed that already but it was way beyond my ability on reverse engineering to fix it.
+
+I will update as soon as possible once I got a solution for that.
+
+Currently ; and / place put note in the same place.
+
+Very disgusting bug!
+
+I must fix this but sorry I was unable to complete this task without the help from you guys.
+
+If you got a solution for this problem, please submit a issue on github to let me see.
+
+Thanks. 
 
 ##
 
