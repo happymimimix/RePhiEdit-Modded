@@ -1,3 +1,7 @@
+# WE ARE NOW STARTING THE NEW Ex:Phiedit PROJECT! 
+# Come this way to get the latest update: 
+
+
 # Re:PhiEdit Modded
 
 This is an optimized version of cmdysj's famous phigros fanmade chart editing program: Re:Phiedit
