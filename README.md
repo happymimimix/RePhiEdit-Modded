@@ -1,5 +1,5 @@
 # WE ARE NOW STARTING THE NEW Ex:Phiedit PROJECT! 
-# Come this way to get the latest update: 
+## Come this way to get the latest update: https://github.com/sudo-000/Ex-Phiedit
 
 
 # Re:PhiEdit Modded
